@@ -131,9 +131,8 @@ Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e suge
 <br><br>
 </details>
 
-<details>
-  <summary> ‼️ Observação</summary>
-<br>
+   ‼️ Observação
+
 
 Estou atualizando meu GitHub com meus projetos e aprendizados do programa GarageLab. Portanto, irei listar as atualizações já realizadas e futuras (de conhecimentos que já possuo).
 
@@ -142,15 +141,14 @@ Estou atualizando meu GitHub com meus projetos e aprendizados do programa Garage
 
 #### Em processo:
 * [REST](https://github.com/AlexAlbert-Dev/Learning-REST)
+* [Spring](https://github.com/AlexAlbert-Dev/Learning-Spring)
 
 #### Futuro:
 * [Testes](https://github.com/AlexAlbert-Dev/Learning-Testes)
 * [Microsserviços](https://github.com/AlexAlbert-Dev/Learning-Microservices)
-* [Spring](https://github.com/AlexAlbert-Dev/Learning-Spring)
 * [SpringBoot](https://github.com/AlexAlbert-Dev/Learning-SpringBoot)
 * [Angular com ASP .NET CORE](https://github.com/AlexAlbert-Dev/API-ASP-NET-CORE)
-  
-</details>
+
 
 <br>
   
