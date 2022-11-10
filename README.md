@@ -138,15 +138,15 @@ Estou atualizando meu GitHub com meus projetos e aprendizados do programa Garage
 
 #### Atualizado:
 * [Git](https://github.com/AlexAlbert-Dev/Learning-Git)
+* [Spring](https://github.com/AlexAlbert-Dev/Learning-Spring)
 
 #### Em processo:
 * [REST](https://github.com/AlexAlbert-Dev/Learning-REST)
-* [Spring](https://github.com/AlexAlbert-Dev/Learning-Spring)
+* [SpringBoot](https://github.com/AlexAlbert-Dev/Learning-SpringBoot)
 
 #### Futuro:
 * [Testes](https://github.com/AlexAlbert-Dev/Learning-Testes)
 * [Microsserviços](https://github.com/AlexAlbert-Dev/Learning-Microservices)
-* [SpringBoot](https://github.com/AlexAlbert-Dev/Learning-SpringBoot)
 * [Angular com ASP .NET CORE](https://github.com/AlexAlbert-Dev/API-ASP-NET-CORE)
 
 
