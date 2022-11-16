@@ -3,7 +3,7 @@
 ![Visualizações de Perfil](https://komarev.com/ghpvc/?username=AlexAlbert-Dev)
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lofi+Lifestyle&size=50&duration=4000&pause=1000&color=FFFF00&background=1D81FF00&center=true&width=950&height=150&lines=Ol%C3%A1%2C+eu+sou+o+Alex+Albert!;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lofi+Lifestyle&size=50&duration=4000&pause=1000&color=4155CA&background=1D81FF00&center=true&width=950&height=150&lines=Ol%C3%A1%2C+eu+sou+o+Alex+Albert!;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 
 
